@@ -5,7 +5,7 @@ A collection of programs I created for JD Sports.
 This public repository only contains the projects' README files.
 
 * All programs:
-  * securely handle credentials, (see JDSCredentials)
+  * securely handle credentials, (see [JDSCredentials](https://github.com/Patricol/JDSports-public/tree/master/JDSModules#jdscredentials))
     * only usable by logged-in; authorized users
   * include clear prompts and status messages
   * have progress bars when appropriate
