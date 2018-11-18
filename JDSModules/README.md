@@ -92,7 +92,6 @@
 ### JDSKinseysAPI
 * Integrates with Kinsey's API.
 * Pulls information about Kinsey's Products.
-* Converts UPCs to ASINs.
 * Others mentioned [above](https://github.com/Patricol/JDSports-public/tree/master/JDSModules#merchant-apis).
 
 
