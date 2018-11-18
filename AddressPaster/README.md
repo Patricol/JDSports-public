@@ -1,7 +1,7 @@
 # Address Paster
 
 ## Impact
-* "75% time saved per order. Saves 1-2 hours per person per day and up to 10 hours depending on volume every day. Also drastically reduced fulfillment errors and human errors which has probably saved $3,000 since we started using it."​
+* "75% time saved per order. Saves 1-2 hours per person per day and up to 10 hours depending on volume every day. Also drastically reduced fulfillment errors and human errors which has probably saved $3,000 since we started using it [six months ago]."​
 
 ## Functionality
 * A hotkey-controlled program that quickly copies and pastes shipping addresses from and into forms on many different websites; handling formatting conversion etc.
