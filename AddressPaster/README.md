@@ -20,7 +20,7 @@
 * Very maintainable and flexible.
   * Website-specific routines are generally one function call per required field. (Ignoring Tab key usage.)
     * All of the heavy lifting is handled in reusable/website-independent functions.
-* Written in AutoHotKey.
+* Written in AutoHotkey.
 * Repository also includes:
   * Saved copies of relevant webpages; for testing.
   * Custom simple HTML pages that behave the same way as the websites' address forms; to simplify testing.
