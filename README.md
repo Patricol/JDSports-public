@@ -11,7 +11,7 @@ This public repository only contains the projects' README files.
   * have progress bars when appropriate
   * are compiled into portable EXE files
   * are written in Python
-    * except for AddressPaster, which is written in AutoHotKey
+    * except for AddressPaster, which is written in AutoHotkey
 
 
 ## Quick Descriptions:
