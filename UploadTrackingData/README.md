@@ -1,8 +1,9 @@
 # UploadTrackingData
 
 ## Impact
-"[Using this saves] 5-10 hours a week."
+* "[Using this saves] 5-10 hours a week."
 
+## Function
 * Used to automatically upload shipping fulfillment information requested by Amazon; by matching the orders in their request with order confirmation emails we receive from the wholesalers.
 * Allows the user to save a local copy of the matches if they desire to do so.
 * Alerts the user with details if any order confirmation email:
