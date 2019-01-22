@@ -12,3 +12,5 @@ See the security module [README section](https://github.com/Patricol/JDSports-pu
 * Upload new API keys for use by all programs.
 * Uses JDSCredentials to allow for simple uploading of new API keys or other secrets.
   * Only authorized users can do this.
+
+This repository only contains README files and some portions of [WalmartRefunder](https://github.com/Patricol/JDSports-public/tree/master/WalmartRefunder#walmartrefunder) and [AddressPaster](https://github.com/Patricol/JDSports-public/tree/master/AddressPaster#address-paster) approved (by JD Sports) for public release.

@@ -9,3 +9,5 @@
   * Amazon support would be trivial; but was not requested.
 
 Hasn't been updated to handle changes to the websites etc.; not in a working state.
+
+This repository only contains README files and some portions of [WalmartRefunder](https://github.com/Patricol/JDSports-public/tree/master/WalmartRefunder#walmartrefunder) and [AddressPaster](https://github.com/Patricol/JDSports-public/tree/master/AddressPaster#address-paster) approved (by JD Sports) for public release.

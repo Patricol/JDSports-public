@@ -26,3 +26,5 @@
   * Custom simple HTML pages that behave the same way as the websites' address forms; to simplify testing.
 
 ![help_menu](https://raw.githubusercontent.com/Patricol/JDSports-public/master/AddressPaster/AddressPaster%20Help.png)
+
+This repository only contains README files and some portions of [WalmartRefunder](https://github.com/Patricol/JDSports-public/tree/master/WalmartRefunder#walmartrefunder) and [AddressPaster](https://github.com/Patricol/JDSports-public/tree/master/AddressPaster#address-paster) approved (by JD Sports) for public release.

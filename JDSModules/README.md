@@ -152,3 +152,5 @@
 ### JDSProductDataClass
 * Initial work to unify how API data is requested and returned; so that other code can be streamlined and made even more flexible.
 * Functions, but is not yet used by other programs or modules.
+
+This repository only contains README files and some portions of [WalmartRefunder](https://github.com/Patricol/JDSports-public/tree/master/WalmartRefunder#walmartrefunder) and [AddressPaster](https://github.com/Patricol/JDSports-public/tree/master/AddressPaster#address-paster) approved (by JD Sports) for public release.

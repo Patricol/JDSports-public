@@ -8,3 +8,5 @@
   * maximum number of emails to send per day
     * sent emails are spaced evenly throughout the day
   * minimum dollar value to justify a refund request
+
+This repository only contains README files and some portions of [WalmartRefunder](https://github.com/Patricol/JDSports-public/tree/master/WalmartRefunder#walmartrefunder) and [AddressPaster](https://github.com/Patricol/JDSports-public/tree/master/AddressPaster#address-paster) approved (by JD Sports) for public release.
